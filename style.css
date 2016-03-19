@@ -1,16 +1,16 @@
 
 @font-face {
-  font-family: 'Open Sans';
+  font-family: "OpenSans";
   font-style: normal;
   font-weight: 400;
-  src: local('Open Sans'), local('OpenSans'), url('../fonts/opensans.woff2') format('woff2'), url('../fonts/opensans.woff') format('woff');
+  src: url('fonts/opensans.woff');
 }
 
 
 
 body {
-	font-family: "Open Sans";
-	font-size: 12px;
+	font-family: "OpenSans";
+	font-size: 14px;
 }
 .container {
 }
@@ -76,7 +76,3 @@ h3.panel-title {
 	line-height: 25px;
 /*	letter-spacing: 1px;
  */}
-
- .panel{
- 	margin-bottom: 8px;
- }
