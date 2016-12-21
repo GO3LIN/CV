@@ -12,7 +12,8 @@ body {
 	font-family: "OpenSans";
 	font-size: 14px;
 }
-.container {
+.container .panel{
+	margin-bottom: 7px;
 }
 .title {
 	text-align: center;
